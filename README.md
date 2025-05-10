@@ -1,4 +1,4 @@
-# Universal Web Scraper
+# N11 Web Scraper
 
 A powerful and flexible web scraping tool that can be configured to scrape product data from various e-commerce websites. Currently supports Amazon and n11.com, with the ability to easily add more websites.
 
